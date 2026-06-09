@@ -27,12 +27,11 @@ Currently working as a Game Developer at **Cutaway Games**.
 
 ### Featured Projects
 
-A few highlights — ML, web, and games:
+A few highlights:
 
-- **[Wonder Picker](https://github.com/ARDhruvo/Wonder-Pick)** — Logistic Regression model predicting card positions in Pokémon TCG Pocket's Wonder Pick mechanic
-- **[Amogus Gacha](https://github.com/ARDhruvo/Amogus-Gacha)** — Unity gacha prototype exploring pull mechanics and probability weighting
-- **[LibraAust](https://github.com/ARDhruvo/LibraAust)** — University library management system (React + Laravel)
-- **[Hydrangea](https://kashikizu.itch.io/hydrangea-vn)** — Narrative visual novel with original story, art, and music (Ren'Py)
+- **[Wonder Picker](https://github.com/ARDhruvo/Wonder-Pick)**: Logistic Regression model predicting card positions in Pokémon TCG Pocket's Wonder Pick mechanic
+- **[Amogus Gacha](https://github.com/ARDhruvo/Amogus-Gacha)**: Unity gacha prototype exploring pull mechanics and probability weighting
+- **[LibraAust](https://github.com/ARDhruvo/LibraAust)**: University library management system (React + Laravel)
 
 **[→ See all projects I've worked on](https://github.com/ARDhruvo/Projects)**
 
@@ -42,4 +41,4 @@ A few highlights — ML, web, and games:
 
 - [dhruvo.rahman0705@gmail.com](mailto:dhruvo.rahman0705@gmail.com) (personal)
 - [aribur.cse.20220204003@aust.edu](mailto:aribur.cse.20220204003@aust.edu) (academic)
-- [Bluesky](https://bsky.app/profile/kashikizu.bsky.social) · [itch.io](https://kashikizu.itch.io) · [LinkedIn](https://www.linkedin.com/in/md-aribur-rahman-dhruvo-a0583027a/)
+<p> <a href="https://github.com/Kashikizu" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/md-aribur-rahman-dhruvo-a0583027a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://bsky.app/profile/kashikizu.bsky.social" target="_blank"> <img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" /> </a> <a href="https://kashikizu.itch.io" target="_blank"> <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /> </a> </p>
