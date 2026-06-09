@@ -2,14 +2,10 @@
 
 **CSE Undergraduate · Game Developer · Probability Enjoyer**
 
-4th year B.Sc. CSE student at [Ahsanullah University of Science and Technology](https://www.aust.edu/), Dhaka - obsessed with randomness, probability, and predictions. 
+4th year B.Sc. CSE student at [Ahsanullah University of Science and Technology](https://www.aust.edu/), Dhaka - obsessed with randomness, probability, and predictions.
 Currently working as a Game Developer at **Cutaway Games**.
 
----
-
-### Portfolio
-
-**[→ ardhruvo.github.io](https://ardhruvo.github.io/)** — projects, work experience, skills, and more.
+**[Learn more about me!](https://ardhruvo.github.io/)**
 
 ---
 
